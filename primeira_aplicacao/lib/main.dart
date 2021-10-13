@@ -99,7 +99,7 @@ class _HomeState extends State<Home> {
                       labelText: 'Valor do álcool',
                       border: OutlineInputBorder(),
                       labelStyle:
-                          TextStyle(color: Colors.red[900], fontSize: 26.00)),
+                          TextStyle(color: Colors.red[900], fontSize: 20.00)),
                 ),
 
                 //Comando para dar espaço entre os campos de texto
@@ -113,7 +113,7 @@ class _HomeState extends State<Home> {
                       labelText: 'Valor da gasolina',
                       border: OutlineInputBorder(),
                       labelStyle:
-                          TextStyle(color: Colors.red[900], fontSize: 26.00)),
+                          TextStyle(color: Colors.red[900], fontSize: 20.00)),
                 ),
 
                 // Vamos criar o botão para calcular
